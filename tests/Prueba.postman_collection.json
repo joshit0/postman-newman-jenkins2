@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "45624027-a943-41b4-9c15-8f9b3fff3b57",
+		"name": "Prueba",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://api.mockaroo.com/api/7653f670?count=1&key=14b7d910",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mockaroo.com/api/7653f670?count=1&key=14b7d910",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mockaroo",
+						"com"
+					],
+					"path": [
+						"api",
+						"7653f670"
+					],
+					"query": [
+						{
+							"key": "count",
+							"value": "1"
+						},
+						{
+							"key": "key",
+							"value": "14b7d910"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
